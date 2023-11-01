@@ -5,6 +5,7 @@ const HeaderStyle = styled(Header)`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1em;
 `
 
 export default HeaderStyle

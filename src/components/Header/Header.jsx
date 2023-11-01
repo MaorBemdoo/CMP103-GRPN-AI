@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Header = () => {
+const Header = ({className}) => {
     return (
-        <header>
+        <header className={className}>
             <a href='/'><img src=""/></a>
             <nav>
                 <a href="">Features</a>
