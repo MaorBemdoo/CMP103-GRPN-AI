@@ -16,7 +16,7 @@ export const GlobalStyles = createGlobalStyle`
     }
     #root{
         width: 100vw;
-        background: linear-gradient(#7a798f, 50%, white);
+        background: linear-gradient(#ada9e9, white 300px);
         height: 100vh;
     }
 `
